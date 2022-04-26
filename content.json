@@ -2,70 +2,70 @@
   "android" : 
   [
     {"name" : "revomon",
-      "ip"  : "http://52.11.52.86/android/revomon",
+      "ip"  : "http://52.11.52.86/content/android/revomon",
       "cacheName" : "assetBundleRevo",
       "version" : 1
     },
     {"name" : "moves",
-      "ip"  : "http://52.11.52.86/android/moves",
+      "ip"  : "http://52.11.52.86/content/android/moves",
       "cacheName" : "assetBundleMove",
       "version" : 1
     },
     {"name" : "npc",
-      "ip"  : "http://52.11.52.86/android/npc",
+      "ip"  : "http://52.11.52.86/content/android/npc",
       "cacheName" : "assetBundleNpc",
       "version" : 1
     },
     {"name" : "misc",
-      "ip"  : "http://52.11.52.86/android/misc",
+      "ip"  : "http://52.11.52.86/content/android/misc",
       "version" : 1
     },
     {"name" : "dex",
-      "ip"  : "http://52.11.52.86/android/dex",
+      "ip"  : "http://52.11.52.86/content/android/dex",
       "version" : 1
     },
     {"name" : "quest",
-      "ip"  : "http://52.11.52.86/android/quest",
+      "ip"  : "http://52.11.52.86/content/android/quest",
       "cacheName" : "assetBundleQuest",
       "version" : 1
     },
     {"name" : "scenes",
-      "ip"  : "http://52.11.52.86/android/scenes",
+      "ip"  : "http://52.11.52.86/content/android/scenes",
       "version" : 1
     }
   ],
   "windows" : 
   [
     {"name" : "revomon",
-      "ip"  : "http://52.11.52.86/windows/revomon",
+      "ip"  : "http://52.11.52.86/content/windows/revomon",
       "cacheName" : "assetBundleRevo",
       "version" : 1
     },
     {"name" : "moves",
-      "ip"  : "http://52.11.52.86/windows/moves",
+      "ip"  : "http://52.11.52.86/content/windows/moves",
       "cacheName" : "assetBundleMove",
       "version" : 1
     },
     {"name" : "npc",
-      "ip"  : "http://52.11.52.86/windows/npc",
+      "ip"  : "http://52.11.52.86/content/windows/npc",
       "cacheName" : "assetBundleNpc",
       "version" : 1
     },
     {"name" : "misc",
-      "ip"  : "http://52.11.52.86/windows/misc",
+      "ip"  : "http://52.11.52.86/content/windows/misc",
       "version" : 1
     },
     {"name" : "dex",
-      "ip"  : "http://52.11.52.86/windows/dex",
+      "ip"  : "http://52.11.52.86/content/windows/dex",
       "version" : 1
     },
     {"name" : "quest",
-      "ip"  : "http://52.11.52.86/windows/quest",
+      "ip"  : "http://52.11.52.86/content/windows/quest",
       "cacheName" : "assetBundleQuest",
       "version" : 1
     },
     {"name" : "scenes",
-      "ip"  : "http://52.11.52.86/windows/scenes",
+      "ip"  : "http://52.11.52.86/content/windows/scenes",
       "version" : 1
     }
   ]
