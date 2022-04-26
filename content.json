@@ -1,0 +1,60 @@
+{
+  "android" : 
+  [
+    {"name" : "revomon",
+      "ip"  : "http://192.168.0.26/content/android/revomon",
+      "cacheName" : "assetBundleRevo"
+    },
+    {"name" : "moves",
+      "ip"  : "http://192.168.0.26/content/android/moves",
+      "cacheName" : "assetBundleMove"
+    },
+    {"name" : "npc",
+      "ip"  : "http://192.168.0.26/content/android/npc",
+      "cacheName" : "assetBundleNpc"
+    },
+    {"name" : "misc",
+      "ip"  : "http://192.168.0.26/content/android/misc"
+    },
+    {"name" : "dex",
+      "ip"  : "http://192.168.0.26/content/android/dex"
+    },
+    {"name" : "quest",
+      "ip"  : "http://192.168.0.26/content/android/quest",
+      "cacheName" : "assetBundleQuest"
+    },
+    {"name" : "scenes",
+      "ip"  : "http://192.168.0.26/content/android/scenes"
+    }
+  ],
+  "downloaderVersionAndroid" : 6,
+  "windows" : 
+  [
+    {"name" : "revomon",
+      "ip"  : "http://192.168.0.26/content/windows/revomon",
+      "cacheName" : "assetBundleRevo"
+    },
+    {"name" : "moves",
+      "ip"  : "http://192.168.0.26/content/windows/moves",
+      "cacheName" : "assetBundleMove"
+    },
+    {"name" : "npc",
+      "ip"  : "http://192.168.0.26/content/windows/npc",
+      "cacheName" : "assetBundleNpc"
+    },
+    {"name" : "misc",
+      "ip"  : "http://192.168.0.26/content/windows/misc"
+    },
+    {"name" : "dex",
+      "ip"  : "http://192.168.0.26/content/windows/dex"
+    },
+    {"name" : "quest",
+      "ip"  : "http://192.168.0.26/content/windows/quest",
+      "cacheName" : "assetBundleQuest"
+    },
+    {"name" : "scenes",
+      "ip"  : "http://192.168.0.26/content/windows/scenes"
+    }
+  ],
+  "downloaderVersionWindows" : 6
+}
