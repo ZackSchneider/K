@@ -18,7 +18,7 @@
     },
     {"name" : "misc",
       "ip"  : "http://52.11.52.86/content/android/misc",
-      "version" : 2
+      "version" : 1
     },
     {"name" : "dex",
       "ip"  : "http://52.11.52.86/content/android/dex",
