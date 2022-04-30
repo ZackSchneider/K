@@ -2,70 +2,70 @@
   "android" : 
   [
     {"name" : "revomon",
-      "ip"  : "http://52.11.52.86/content/android/revomon",
+      "ip"  : "https://nft.revomon.io/content/android/revomon",
       "cacheName" : "assetBundleRevo",
       "version" : 1
     },
     {"name" : "moves",
-      "ip"  : "http://52.11.52.86/content/android/moves",
+      "ip"  : "https://nft.revomon.io/content/android/moves",
       "cacheName" : "assetBundleMove",
       "version" : 1
     },
     {"name" : "npc",
-      "ip"  : "http://52.11.52.86/content/android/npc",
+      "ip"  : "https://nft.revomon.io/content/android/npc",
       "cacheName" : "assetBundleNpc",
       "version" : 1
     },
     {"name" : "misc",
-      "ip"  : "http://52.11.52.86/content/android/misc",
+      "ip"  : "https://nft.revomon.io/content/android/misc",
       "version" : 1
     },
     {"name" : "dex",
-      "ip"  : "http://52.11.52.86/content/android/dex",
+      "ip"  : "https://nft.revomon.io/content/android/dex",
       "version" : 1
     },
     {"name" : "quest",
-      "ip"  : "http://52.11.52.86/content/android/quest",
+      "ip"  : "https://nft.revomon.io/content/android/quest",
       "cacheName" : "assetBundleQuest",
       "version" : 1
     },
     {"name" : "scenes",
-      "ip"  : "http://52.11.52.86/content/android/scenes",
+      "ip"  : "https://nft.revomon.io/content/android/scenes",
       "version" : 1
     }
   ],
   "windows" : 
   [
     {"name" : "revomon",
-      "ip"  : "http://52.11.52.86/content/windows/revomon",
+      "ip"  : "https://nft.revomon.io/content/windows/revomon",
       "cacheName" : "assetBundleRevo",
       "version" : 1
     },
     {"name" : "moves",
-      "ip"  : "http://52.11.52.86/content/windows/moves",
+      "ip"  : "https://nft.revomon.io/content/windows/moves",
       "cacheName" : "assetBundleMove",
       "version" : 1
     },
     {"name" : "npc",
-      "ip"  : "http://52.11.52.86/content/windows/npc",
+      "ip"  : "https://nft.revomon.io/content/windows/npc",
       "cacheName" : "assetBundleNpc",
       "version" : 1
     },
     {"name" : "misc",
-      "ip"  : "http://52.11.52.86/content/windows/misc",
+      "ip"  : "https://nft.revomon.io/content/windows/misc",
       "version" : 1
     },
     {"name" : "dex",
-      "ip"  : "http://52.11.52.86/content/windows/dex",
+      "ip"  : "https://nft.revomon.io/content/windows/dex",
       "version" : 1
     },
     {"name" : "quest",
-      "ip"  : "http://52.11.52.86/content/windows/quest",
+      "ip"  : "https://nft.revomon.io/content/windows/quest",
       "cacheName" : "assetBundleQuest",
       "version" : 1
     },
     {"name" : "scenes",
-      "ip"  : "http://52.11.52.86/content/windows/scenes",
+      "ip"  : "https://nft.revomon.io/content/windows/scenes",
       "version" : 1
     }
   ]
