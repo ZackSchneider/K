@@ -1,0 +1,22 @@
+{
+	"serversList": [
+	  {
+		"ip": "34.209.143.62",
+		"port" : 2052,
+		"name" : "Server #1",
+		"currentLoad" : ""
+	  },
+	  {
+		"ip": "18.237.243.57",
+		"port" : 2052,
+		"name" : "Server #2",
+		"currentLoad" : ""
+	  },
+	  {
+		"ip": "34.220.193.206",
+		"port" : 2052,
+		"name" : "Server #3",
+		"currentLoad" : ""
+	  }
+	]
+  }
