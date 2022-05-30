@@ -1,6 +1,6 @@
 {
 	"ip": "http://35.87.232.0/content/",
-	"globalversionincrement": 5,
+	"globalversionincrement": 6,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
@@ -12,7 +12,7 @@
 	  },
 	  {
 		"name": "lobby",
-		"version": 1
+		"version": 2
 	  },
 	  {
 		"name": "3",
