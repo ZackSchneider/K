@@ -1,6 +1,6 @@
 {
 	"ip": "https://nft.revomon.io/content/",
-	"globalVersionIncrement": 2,
+	"globalVersionIncrement": 1,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
