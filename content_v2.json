@@ -1,6 +1,6 @@
 {
 	"ip": "http://35.87.232.0/content/",
-	"globalversionincrement": 1,
+	"globalversionincrement": 2,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
