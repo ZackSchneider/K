@@ -1,6 +1,6 @@
 {
 	"ip": "http://35.163.63.242/content/",
-	"globalversionincrement": 5,
+	"globalversionincrement": 6,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
@@ -5444,11 +5444,11 @@
 	  },
 	  {
 		"name": "_preload",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "lobby",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "world_wild_battle_city",
@@ -5464,7 +5464,7 @@
 	  },
 	  {
 		"name": "world_home",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "world_market_center_c2",
@@ -5496,75 +5496,75 @@
 	  },
 	  {
 		"name": "1",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "2",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "3",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "4",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "5",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "6",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "7",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "8",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "9",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "10",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "11",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "12",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "13",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "15",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "quest",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "misc",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "npc",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "dex",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "vachita",
