@@ -1,10 +1,10 @@
 {
-	"ip": "http://35.163.63.242/content/",
-	"globalversionincrement": 6,
+	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
+	"globalversionincrement": 7,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
-		"version": 1
+		"version": 2
 	  },
 	  {
 		"name": "absorb",
@@ -5450,6 +5450,10 @@
 		"name": "lobby",
 		"version": 3
 	  },
+	{
+		"name": "world_gym_league",
+		"version": 1
+  	},
 	  {
 		"name": "world_wild_battle_city",
 		"version": 2
