@@ -1,21 +1,9 @@
 {
 	"serversList": [
 	  {
-		"ip": "54.177.163.139",
+		"ip": "52.173.105.185",
 		"port" : 2052,
 		"name" : "Server #1 Poseidon",
-		"currentLoad" : ""
-	  },
-	  {
-		"ip": "54.177.141.71",
-		"port" : 2052,
-		"name" : "Server #2 Hermes",
-		"currentLoad" : ""
-	  },
-	  {
-		"ip": "54.219.216.250",
-		"port" : 2052,
-		"name" : "Server #3 Zeus",
 		"currentLoad" : ""
 	  }
 	]
