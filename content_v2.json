@@ -1,6 +1,6 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
-	"globalversionincrement": 8,
+	"globalversionincrement": 9,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
@@ -5444,11 +5444,11 @@
 	  },
 	  {
 		"name": "_preload",
-		"version": 4
+		"version": 5
 	  },
 	  {
 		"name": "lobby",
-		"version": 3
+		"version": 4
 	  },
 	{
 		"name": "world_gym_league",
@@ -5462,6 +5462,18 @@
 		"name": "world_wild_battle_tutorial",
 		"version": 2
 	  },
+	{
+		"name": "World_Wild_Battle_Podium_Bronze",
+		"version": 1
+	},
+	{
+		"name": "World_Wild_Battle_Podium_Gold",
+		"version": 1
+	},
+	{
+		"name": "World_Wild_Battle_Podium_Silver",
+		"version": 1
+	}
 	  {
 		"name": "world_capsule_store_c5",
 		"version": 2
@@ -5498,9 +5510,13 @@
 		"name": "world_market_center_c8",
 		"version": 2
 	  },
+	{
+		"name": "World_Market_Center_C9",
+		"version": 1
+	},
 	  {
 		"name": "1",
-		"version": 3
+		"version": 4
 	  },
 	  {
 		"name": "2",
@@ -5552,8 +5568,12 @@
 	  },
 	  {
 		"name": "15",
-		"version": 3
+		"version": 4
 	  },
+	{
+		"name": "16",
+		"version": 1
+	},
 	  {
 		"name": "quest",
 		"version": 3
