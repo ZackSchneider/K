@@ -1,6 +1,6 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
-	"globalversionincrement": 9,
+	"globalversionincrement": 10,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
@@ -5463,16 +5463,16 @@
 		"version": 2
 	  },
 	{
-		"name": "World_Wild_Battle_Podium_Bronze",
-		"version": 1
+		"name": "world_Wild_Battle_podium_bronze",
+		"version": 2
 	},
 	{
-		"name": "World_Wild_Battle_Podium_Gold",
-		"version": 1
+		"name": "world_wild_battle_podium_gold",
+		"version": 2
 	},
 	{
-		"name": "World_Wild_Battle_Podium_Silver",
-		"version": 1
+		"name": "world_wild_battle_podium_silver",
+		"version": 2
 	},
 	  {
 		"name": "world_capsule_store_c5",
@@ -5511,8 +5511,8 @@
 		"version": 2
 	  },
 	{
-		"name": "World_Market_Center_C9",
-		"version": 1
+		"name": "world_market_center_C9",
+		"version": 2
 	},
 	  {
 		"name": "1",
