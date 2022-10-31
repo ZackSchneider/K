@@ -1,10 +1,10 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
-	"globalversionincrement": 11,
+	"globalversionincrement": 12,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
-		"version": 2
+		"version": 3
 	  },
 	  {
 		"name": "absorb",
@@ -5443,154 +5443,6 @@
 		"version": 1
 	  },
 	  {
-		"name": "_preload",
-		"version": 5
-	  },
-	  {
-		"name": "lobby",
-		"version": 4
-	  },
-	{
-		"name": "world_gym_league",
-		"version": 1
-  	},
-	  {
-		"name": "world_wild_battle_city",
-		"version": 2
-	  },
-	  {
-		"name": "world_wild_battle_tutorial",
-		"version": 2
-	  },
-	{
-		"name": "world_wild_battle_podium_bronze",
-		"version": 2
-	},
-	{
-		"name": "world_wild_battle_podium_gold",
-		"version": 2
-	},
-	{
-		"name": "world_wild_battle_podium_silver",
-		"version": 2
-	},
-	  {
-		"name": "world_capsule_store_c5",
-		"version": 2
-	  },
-	  {
-		"name": "world_home",
-		"version": 3
-	  },
-	  {
-		"name": "world_market_center_c2",
-		"version": 2
-	  },
-	  {
-		"name": "world_market_center_c3",
-		"version": 2
-	  },
-	  {
-		"name": "world_market_center_c4",
-		"version": 2
-	  },
-	  {
-		"name": "world_market_center_c5",
-		"version": 2
-	  },
-	  {
-		"name": "world_market_center_c6",
-		"version": 2
-	  },
-	  {
-		"name": "world_market_center_c7",
-		"version": 2
-	  },
-	  {
-		"name": "world_market_center_c8",
-		"version": 2
-	  },
-	{
-		"name": "world_market_center_c9",
-		"version": 3
-	},
-	  {
-		"name": "1",
-		"version": 4
-	  },
-	  {
-		"name": "2",
-		"version": 3
-	  },
-	  {
-		"name": "3",
-		"version": 3
-	  },
-	  {
-		"name": "4",
-		"version": 3
-	  },
-	  {
-		"name": "5",
-		"version": 3
-	  },
-	  {
-		"name": "6",
-		"version": 3
-	  },
-	  {
-		"name": "7",
-		"version": 3
-	  },
-	  {
-		"name": "8",
-		"version": 3
-	  },
-	  {
-		"name": "9",
-		"version": 3
-	  },
-	  {
-		"name": "10",
-		"version": 3
-	  },
-	  {
-		"name": "11",
-		"version": 3
-	  },
-	  {
-		"name": "12",
-		"version": 3
-	  },
-	  {
-		"name": "13",
-		"version": 3
-	  },
-	  {
-		"name": "15",
-		"version": 4
-	  },
-	{
-		"name": "16",
-		"version": 1
-	},
-	  {
-		"name": "quest",
-		"version": 3
-	  },
-	  {
-		"name": "misc",
-		"version": 3
-	  },
-	  {
-		"name": "npc",
-		"version": 3
-	  },
-	  {
-		"name": "dex",
-		"version": 3
-	  },
-	  {
 		"name": "vachita",
 		"version": 1
 	  },
@@ -5701,6 +5553,162 @@
 	  {
 		"name": "khepreetle_flash",
 		"version": 1
+	  },
+	{
+		"name": "murdoll",
+		"version": 1
+	},
+	{
+		"name": "murdoll_flash",
+		"version": 1
+	},
+	  {
+		"name": "_preload",
+		"version": 6
+	  },
+	  {
+		"name": "lobby",
+		"version": 5
+	  },
+	{
+		"name": "world_gym_league",
+		"version": 2
+  	},
+	  {
+		"name": "world_wild_battle_city",
+		"version": 3
+	  },
+	  {
+		"name": "world_wild_battle_tutorial",
+		"version": 3
+	  },
+	{
+		"name": "world_wild_battle_podium_bronze",
+		"version": 3
+	},
+	{
+		"name": "world_wild_battle_podium_gold",
+		"version": 3
+	},
+	{
+		"name": "world_wild_battle_podium_silver",
+		"version": 3
+	},
+	  {
+		"name": "world_capsule_store_c5",
+		"version": 2
+	  },
+	  {
+		"name": "world_home",
+		"version": 4
+	  },
+	  {
+		"name": "world_market_center_c2",
+		"version": 3
+	  },
+	  {
+		"name": "world_market_center_c3",
+		"version": 3
+	  },
+	  {
+		"name": "world_market_center_c4",
+		"version": 3
+	  },
+	  {
+		"name": "world_market_center_c5",
+		"version": 3
+	  },
+	  {
+		"name": "world_market_center_c6",
+		"version": 3
+	  },
+	  {
+		"name": "world_market_center_c7",
+		"version": 3
+	  },
+	  {
+		"name": "world_market_center_c8",
+		"version": 3
+	  },
+	{
+		"name": "world_market_center_c9",
+		"version": 3
+	},
+	  {
+		"name": "1",
+		"version": 5
+	  },
+	  {
+		"name": "2",
+		"version": 4
+	  },
+	  {
+		"name": "3",
+		"version": 4
+	  },
+	  {
+		"name": "4",
+		"version": 4
+	  },
+	  {
+		"name": "5",
+		"version": 4
+	  },
+	  {
+		"name": "6",
+		"version": 4
+	  },
+	  {
+		"name": "7",
+		"version": 4
+	  },
+	  {
+		"name": "8",
+		"version": 4
+	  },
+	  {
+		"name": "9",
+		"version": 4
+	  },
+	  {
+		"name": "10",
+		"version": 4
+	  },
+	  {
+		"name": "11",
+		"version": 4
+	  },
+	  {
+		"name": "12",
+		"version": 4
+	  },
+	  {
+		"name": "13",
+		"version": 4
+	  },
+	  {
+		"name": "15",
+		"version": 4
+	  },
+	{
+		"name": "16",
+		"version": 2
+	},
+	  {
+		"name": "quest",
+		"version": 3
+	  },
+	  {
+		"name": "misc",
+		"version": 3
+	  },
+	  {
+		"name": "npc",
+		"version": 3
+	  },
+	  {
+		"name": "dex",
+		"version": 3
 	  }
 	]
   }
