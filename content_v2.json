@@ -5564,11 +5564,11 @@
 	},
 	  {
 		"name": "_preload",
-		"version": 7
+		"version": 8
 	  },
 	  {
 		"name": "lobby",
-		"version": 5
+		"version": 6
 	  },
 	{
 		"name": "world_gym_league",
@@ -5700,7 +5700,7 @@
 	  },
 	  {
 		"name": "misc",
-		"version": 3
+		"version": 4
 	  },
 	  {
 		"name": "npc",
