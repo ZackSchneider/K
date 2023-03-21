@@ -1,6 +1,6 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
-	"globalversionincrement": 16,
+	"globalversionincrement": 17,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
@@ -5644,7 +5644,7 @@
 	},
 	  {
 		"name": "1",
-		"version": 14
+		"version": 15
 	  },
 	  {
 		"name": "2",
