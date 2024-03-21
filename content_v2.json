@@ -1,12 +1,12 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
-	"globalversionincrement": 19,
+	"globalversionincrement": 20,
 	"gameversion": "2.6.0",
 	"showspecialsplash": true,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
-		"version": 18
+		"version": 19
 	  },
 	  {
 		"name": "quest",
@@ -22,7 +22,7 @@
 	  },
 	  {
 		"name": "_preload",
-		"version": 17
+		"version": 18
 	  },
 	  {
 		"name": "lobby",
@@ -5054,6 +5054,18 @@
 	},
 	{
 		"name": "twinkletree",
+		"version": 17
+	},
+	{
+		"name": "sparknite",
+		"version": 17
+	},
+	{
+		"name": "immubolt",
+		"version": 17
+	},
+	{
+		"name": "immutable",
 		"version": 17
 	},
 	  {
