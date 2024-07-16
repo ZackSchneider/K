@@ -1,0 +1,10 @@
+{
+	"serversList": [
+		{
+			"ip": "52.173.105.185",
+			"port" : 7777,
+			"name" : "remote 7777",
+			"currentLoad" : ""
+		}
+	]
+}
