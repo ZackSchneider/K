@@ -1,5176 +1,5176 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
-	"globalversionincrement": 241,
+	"globalversionincrement": 242,
 	"gameversion": "2.6.0",
 	"showspecialsplash":false,
 	"assets": [
 	  {
 		"name": "revomon_database.sqlite",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "misc",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "npc",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "_preload",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lobby",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "absorb",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acid01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acid02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acidarmor",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acidspray01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acidspray02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acrobatics_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acrobatics_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "acupressure",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aerialace",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aerialace2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aeroblast_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aeroblast_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "agility",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aircutter1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aircutter2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "airslash_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "airslash_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "amnesia",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ancientpower01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ancientpower02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ancientruins01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ancientruins02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aquajet1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aquajet2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aquaring1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aquatail_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aquatail_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "armthrust01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "armthrust02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aromatherapy1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aromaticmist01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aromaticmist02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "assurance1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "assurance2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "astonish1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "astonish2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "attract",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aurasphere_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aurasphere_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aurasphere_3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aurorabeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "aurorabeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "autotomize",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "avalanche1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "avalanche2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "babydolleyes01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "barrage01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "barrage02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "barrage03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "barrier",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "batonpass",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "beatup01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "beatup02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "belch_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "belch_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bellydrum",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bide",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bigereff",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bite01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bite02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blastburn1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blastburn2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blazekick01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blazekick02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blizzard",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blizzard02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "block",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "block2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bloomdoom_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bloomdoom_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blueflare01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blueflare02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bodyslam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bodyslam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "boltstrike01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "boltstrike02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "boneclub_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "boneclub_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bonemerang",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bonerush",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "boomburst01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "boomburst02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bounce_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bounce_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bravebird1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bravebird2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "brickbreak01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "brickbreak02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "brine1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "brine2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bubble01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bubble02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bubble03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bubble04",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bubblebeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bubblebeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bugbite1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bugbite2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bugbuzz_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bugbuzz_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulkup",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulldoze_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulldoze_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulletpunch1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulletpunch2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulletseed01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bulletseed02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "burstfloor01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "burstfloor02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "calmmind",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "camouflage",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "captivate",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "charge",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "chargebeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "charm",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "chipaway_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "chipaway_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "circlethrow_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "circlethrow_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "clamp1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "clamp2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "clearsmog_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "clearsmog_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "closecombat1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "closecombat2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "coil",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cometpunch",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cometpunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confide01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confide02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confuseray01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confuseray02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confuseray03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confusion01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "confusion02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "constrict1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "constrict2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "conversion",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "conversion2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cosmicpower",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cottonguard",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cottonspore01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cottonspore02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "counter01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "counter02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "covet",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "covet2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crabhammer",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crabhammer01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "craftyshield",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crosschop01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crosschop02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crosspoison01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crosspoison02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crushclaw1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crushclaw2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crushgrip1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "crushgrip2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "curse1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dark",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkattack01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkattack02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkenergyball01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkenergyball02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkpulse_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkpulse_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkvoid1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "darkvoid2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dazzlinggleam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dazzlinggleam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "defensecurl",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "defog",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "deserttigershot1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "deserttigershot2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "desertvortex01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "desertvortex02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "destinybond",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "detect",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "diamondstorm01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "diamondstorm02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dig01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dig02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "disable01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "disarmingvoice01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "disarmingvoice02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "discharge01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dive01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dive02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dizzypunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dizzypunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doomdesire_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doomdesire_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doubleedge",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doubleedge02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doublehit1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doublehit2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doublekick",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doubleslap01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doubleslap02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doubleteam",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dracometeorcrash01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dracometeorcrash02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonascent01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonascent02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonbreath_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonbreath_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonclaw_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonclaw_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragondance",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonpulse_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonpulse_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonrage01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonrage02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonrush_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragonrush_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragontail_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragontail_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dragontype",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drainingkiss01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drainingkiss02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drainpunch_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drainpunch_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dreameater01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drillpeck",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drillpeck01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drillrun01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drillrun02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dualchop01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dualchop02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dynamicpunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dynamicpunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "earth",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "earthpower1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "earthpower2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "earthquake01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "earthquake02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "echoedvoice1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "echoedvoice2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "eerieimpulse01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "eerieimpulse02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "eggbomb",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electric",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electricterrain01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electricterrain02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electrify01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electrify02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electroball01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electroball02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "electroweb_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "embargo1_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "embargo2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ember01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ember02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "emptycrack01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "emptycrack02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "encore1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "encore2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "endeavor01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "endeavor02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "energyball1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "energyball2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "entrainment",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "eruption1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "eruption2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "evilinvasion01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "evilinvasion02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "explosion01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "explosion02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "extrasensory_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "extrasensory_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "extremespeed01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "extremespeed02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "facade01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "facade02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "faintattack01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "faintattack02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairy",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairylock01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairylock02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairypower01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairypower02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairywind01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fairywind02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fakeout01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fakeout02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "faketears1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "falseswipe01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "falseswipe02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "feint1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "feint2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fellstinger_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fierydance01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fierydance02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "finalgambit_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "finalgambit_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "finalgambit_3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fireblast01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fireblast02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fireblast03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fireblast04",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "firefang1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "firefang2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "firepunch_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "firepunch_04",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "firespin01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "firespin02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fissure",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fissure01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flail01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flail02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flameburst1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flameburst2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flameburst3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamecharge01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamecharge02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamecharge03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamethrower_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamethrower_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamethrower_03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamewheel01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flamewheel02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flareblitz1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flareblitz2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flash",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flashcannon1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flashcannon2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flatter01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flatter02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flowershield",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fly",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyawy",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyescape01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyescape02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyingdragon01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyingdragon02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyingpress_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "flyingpress_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fly_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fly_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "focusblast1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "focusblast2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "focusenergy",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "focuspunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "focuspunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "forcepalm_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "forcepalm_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "foresight01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "foresight02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "forestcurse01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "forestcurse02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "foulplay01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "foulplay02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "foulplay03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "freezedry01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "freezedry02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "freezeshock01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "freezeshock02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "frenzyplant_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "frenzyplant_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "frostbreath_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "frostbreath_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "frozensun01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furyattack01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furyattack02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furyattack03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furycutter01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furycutter02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furyswipes",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fusionbolt01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fusionbolt02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fusionflare01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fusionflare02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gastroacid1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gastroacid2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "geargrind01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "geargrind02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "general",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "geomancy01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "geomancy02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ghost",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gigadrain01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gigadrain02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gigaimpact1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gigaimpact2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gigavolthavoc_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gigavolthavoc_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "glaciate01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "glare",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grapple",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grass",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grassknot",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grasswhistle1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grasswhistle2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grassyterrain",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gravity",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gravity1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "growl",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "growth",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "guardsplit_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "guardsplit_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "guardswap1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "guardswap2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "guillotine",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "guillotine01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gunkshot1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gunkshot2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gust01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gust02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gust03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gyroball1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gyroball2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hail01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hail02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hail03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hammerarm1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hammerarm2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "harden",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "haze",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "headbutt",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "headbutt01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "headcharge01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "headcharge02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "headsmash1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "headsmash2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "healbell",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "healblock1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "healblock2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "healingwish",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "healpulse_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "healpulse_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heartstamp01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heartstamp02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heatcrash01 1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heatcrash01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heatcrash02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heatwave01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heatwave02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heavyslam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heavyslam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "heavyslam03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hex_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hex_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "highjumpkick_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "highjumpkick_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "holdback_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "holdback_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "honeclaws",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hornattack",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hornattack02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "horndrill",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "horndrill01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hornleech01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hornleech02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "howl",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hurricane01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hurricane02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hydrocannon1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hydrocannon2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hydropump01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hydropump02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperbeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperbeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperfang01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperfang02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperspaceclaw_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperspaceclaw_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperspacefury01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperspacefury02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperspacehole01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hyperspacehole02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hypervoice1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hypervoice2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hypnosis01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hypnosis02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceball1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceball2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceball3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icebeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icebeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceburn01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceburn02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icefang1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icefang2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icepunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icepunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceshard1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iceshard2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icetype",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iciclecrash01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iciclecrash02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iciclespear_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iciclespear_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icywind01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "icywind02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "imprison",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "incinerate_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "incinerate_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "incinerate_3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "infernaldragon01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "infernaldragon02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "infernokick_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "infernokick_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "inferno_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "inferno_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "infestation_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "infestation_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "inflammation",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ingrain",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "insect",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iondeluge_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "iondeluge_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "irondefense",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ironhead1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ironhead2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "irontail01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "irontail02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "judgment1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "judgment2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "jumpkick",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "jumpkick01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "karatechop",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "kinesis",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "kingshield01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "knockoff01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "knockoff02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "landswrath_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "landswrath_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lastresort1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lastresort2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lavaplume1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lavaplume2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leafblade",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leafblade2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leafstorm01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leafstorm02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leaftornado01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leaftornado02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leechlife01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leechlife02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leechseed01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leechseed02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leer",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lick1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lick2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lightningimpacttornado01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lightningimpacttornado02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lightofruin_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lightofruin_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lightscreen",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lockon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lovelykiss01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lovelykiss02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lowkick",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lowsweep01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lowsweep02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "luckychant",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lusterpurge1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lusterpurge2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "machpunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "machpunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magicalleaf_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magicalleaf_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magiccoat",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magicroom",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magmastorm1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magmastorm2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magnetbomb1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magnetbomb2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "magnetrise1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "manjidanichop_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "manjidanichop_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "matblock_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "meditate",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megadrain_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megadrain_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megadrain_03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megahorn01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megahorn02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megakick",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megakick01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megapunch",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "megapunch03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "memento01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "memento02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalbeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalbeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalburst1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalburst2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalclaw01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalclaw02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalpunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalpunch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalsound1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metalsound3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "meteoriterock01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "meteoriterock02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "meteormash1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "meteormash2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "metronome",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "milkdrink",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mimic",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mindreader1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mindreader2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "minimize",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "miracleeye1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "miracleeye2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mirrorcoat",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mirrorshot1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mirrorshot2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mist",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mistball1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mistball2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mistyterrain",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moonblast01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moonblast02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moongeistbeam_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moongeistbeam_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moonlight",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moonstar01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moonstar02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "morningsun",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudbomb_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudbomb_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "muddywater_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "muddywater_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudshot_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudshot_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudslap01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudslap02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudsport1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mudsport2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mysticalfire01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mysticalfire02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nastyplot1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "needlearm1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "needlearm2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightdaze01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightdaze02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightmare1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightmare2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightshade1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightshade2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightslash_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightslash_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nobleroar_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nuzzle_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nuzzle_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "oblivionwing_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "oblivionwing_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "octazooka01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "octazooka02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "odorsleuth1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "odorsleuth2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ominouswind1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ominouswind2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "originpulse_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "originpulse_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "outrage_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "outrage_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "overheat",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "painsplit_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "painsplit_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "paraboliccharge01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "paraboliccharge02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "payback1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "payback2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "payday1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "payday2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "payday3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "peck01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "peck02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "perishsong01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "perishsong02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "perishsong03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "petalblizzard01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "petalblizzard02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "petaldance01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "petaldance03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "phantomforce_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "phantomforce_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pinmissile",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "playnice01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "playnice02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "playrough01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "playrough02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pluck1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pluck2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poison",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonfang1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonfang2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisongas01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisongas02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonjab_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonjab_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonpowder01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonpowder02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonsting01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisonsting02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisontail_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poisontail_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pound",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powder01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powder02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powdersnow1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powdersnow2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powergem_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powergem_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powerofdarkness01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powerofdarkness02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powersplit_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powersplit_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powerswap1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powerswap2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powertrick1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poweruppunch_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "poweruppunch_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "powerwhip1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "precipiceblades01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "precipiceblades02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "protect",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psybeam",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychictype",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychic_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychic_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychoboost_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychoboost_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychocut_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychocut_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychoshift1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychoshift2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psychup",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psyshock_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psyshock_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psystrike01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psystrike02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psywave_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "psywave_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "punishment1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "punishment2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pursuit",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "quash_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "quash_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "quickattack",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "quickguard_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "quiverdance",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rage",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ragehorn_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ragehorn_3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "raindance_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "raindance_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "raindance_03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rapidgarrotte01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rapidgarrotte02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rapidspin01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rapidspin02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "razorleaf01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "razorleaf02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "razorshell01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "razorshell02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "razorwind1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "razorwind2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "recover",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "reflect",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "reflecttype_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "reflecttype_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "refresh",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "relicsong01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "relicsong02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rest01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rest02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "retaliate01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "retaliate02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "retaliate1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "retaliate2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "reversal01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "reversal02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "roar",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "roaroftime1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "roaroftime2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rock",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockblast_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockblast_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockclimb",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockpolish",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockslide",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rocksmash01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rocksmash02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rocksmashed_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rocksmashed_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockthrow01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockthrow02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rocktomb1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rocktomb2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockwrecker01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockwrecker02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rollingkick",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rollingkick01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rollout01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rollout02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "roost",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rototiller_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "round01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "round02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ruinattack01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ruinattack02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sacredfire_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sacredfire_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sacredsword01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sacredsword02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "safeguard",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sandstorm01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sandstorm02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sandtomb_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sandtomb_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "savagechop_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "savagechop_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "scald_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "scald_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "scaryface",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "scratch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "scratch02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "screech01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "screech02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seagodpower01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "searingshot01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "searingshot02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "secretpower01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "secretpower02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "secretsword01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "secretsword02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seedbomb_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seedbomb_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seedflare",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seismictoss_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seismictoss_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "selfdestruct01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "selfdestruct02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seriouscollision01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "seriouscollision02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowball01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowball02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowclaw1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowclaw2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowforce1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowforce2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowpunch_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowpunch_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowsneak_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shadowsneak_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sharpen",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sheercold_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sheercold_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shellsmash_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shiftgear_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shockwave_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shockwave_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "signalbeam_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "signalbeam_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "silverwind",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "silverwind2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "simplebeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "simplebeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sing",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skullbash01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skullbash02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skyattack",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skyuppercut",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skyuppercut2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "slackoff",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "slam",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "slash",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sleeppowder02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sleeptalk",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sludge01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sludge02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sludgebomb01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sludgebomb02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sludgewave1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sludgewave2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smackdown01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smackdown02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smalleff",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smellingsalts01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smellingsalts02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smog01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smog02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smokescreen02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smokescreen03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "snarl01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "snarl02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "snore",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soak01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soak02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "softboiled",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "solarbeam01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "solarbeam02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "solarbeam04",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sonicboom1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sonicboom2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soulferry_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soulferry_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spacialrend1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spacialrend2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spark01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spark02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikecannon_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikecannon_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikecannon_3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikes_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikes_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikyshield01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spikyshield02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spite1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spite2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spitup01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spitup02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "splash",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spore_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spore_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stealthrock1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stealthrock2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steameruption01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steameruption02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steamroller01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steamroller02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steel",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steelwave01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steelwave02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steelwing01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "steelwing02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stickyweb_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stickyweb_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stockpile01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stomp",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stomp01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stoneedge1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stoneedge2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "storedpower_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "storedpower_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stormthrow01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stormthrow02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "strength",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stringshot01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stringshot02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stringshot03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "strongwater01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "strongwater02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "strugglebug_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "strugglebug_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "stunspore",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "submission01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "submission02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "suckerpunch1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "suckerpunch2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sunnyday",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sunsparkle01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sunsparkle02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sunsteelstrike01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sunsteelstrike02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "superfang01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "superfang02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "superpower01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "superpower02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "superpowerforce_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "superpowerforce_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "supersonic01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "supersonic02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "surf01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "surf02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "swagger",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "swallow",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sweet scent01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sweet scent02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sweetkiss01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "swift01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "swift02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "swordsdance",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "synchronoise01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "synchronoise02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "synthesis",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tailglow",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tailslap01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tailslap02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tailwhip",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tailwind",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "takedown_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "takedown_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "taunt01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "taunt02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "technoblast01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "technoblast02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "teleport",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thousandarrows_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thousandarrows_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thousandwaves_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thousandwaves_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thrash",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thrash01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunder",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderbolt01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderbolt02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderbomb01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderbomb02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderfang1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderfang2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderpunch",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderpunch01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thundershock01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thundershock02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderwave01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "thunderwave02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tickle",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tickle2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "topsyturvy01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "topsyturvy02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "torment01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "torment02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tornadovortex01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tornadovortex02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "toxic01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "toxic02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "toxicspikes1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "toxicspikes2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "triattack_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "triattack_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "trickortreat_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "trickortreat_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "trickroom",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "triplekick01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "triplekick02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "trumpcard1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "trumpcard2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "twineedle01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "twineedle02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "twister1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "twister2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ultimatedestruction01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ultimatedestruction02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "undercurrentvortex_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "undercurrentvortex_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "uproar",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "uturn1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "uturn2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vacuumwave_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vacuumwave_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vcreate01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vcreate02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "venomdrench01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "venomdrench02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "venoshock_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "venoshock_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vicegrip",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vicegrip01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vinewhip",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vinewhip2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vitalthrow01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vitalthrow02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "voltswitch_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "voltswitch_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "volttackle_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "volttackle_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wakeupslap1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wakeupslap2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "water",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterfall01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterfall02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterflow_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterflow_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watergun01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watergun02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterpulse_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterpulse_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watershockwave01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watershockwave02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watershuriken01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watershuriken02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watershuriken03",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "watersport",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterspout_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waterspout_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waveguidecut_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "waveguidecut_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "weatherball1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "weatherball2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "whirlpool01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "whirlpool02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "whirlwind",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "whirlwind02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "whitewater01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "whitewater02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wildcharge_01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wildcharge_02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "willowisp01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "willowisp02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wingattack",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wish",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "withdraw",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wonderroom",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "woodhammer1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "woodhammer2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "workup_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "worryseed1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "worryseed2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wrap01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wrap02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wringout1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wringout2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "xscissor_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "xscissor_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "yawn01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "yawn02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "zapcannon01",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "zapcannon02",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "zenheadbutt_1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "zenheadbutt_2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "atolloise",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bearmare",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blazlet",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "blizzora",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bloomsee",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bluezilla",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bookwyrm",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "bouldorable",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "buckalloy",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "camprikine",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "caracell",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "champlion",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "chikito",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "coalbra",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "comboworm",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "craggon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "cupidove",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "deksciple",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dekute",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "desuke",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dexdeux",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dexdrei",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dexfyre",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dexuno",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dominevo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dosoil",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "doubeel",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dovamour",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drakefly",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "drakevo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "dregg",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "echomaus",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "eschargot",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "falcolt",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "farinade",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fawneel",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "floatiloch",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "frostoast",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "fungas",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "furnice",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gardsee",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ghopher",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gorcano",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gorlit",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gorox",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "grizleaf",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hassurugu",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hauntevo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hookanga",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "kangkross",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "kickundra",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "koigar",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "koigup",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "leximinth",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "locuna",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "loftevo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lunacoon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "lycub",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "masakaridon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "meganeudra",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "miraflect",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mirrate",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "monking",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moontis",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "mummole",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "navixy",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "nightmort",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "ninesee",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "odonymph",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "opawan",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pandozer",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "panlow",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "peafrost",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pincub",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "polluvern",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "pupple",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "r3v-up",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "radarent",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "raftnesse",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "raival",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "reingifir",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rockonid",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "romanfrig",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "roojab",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "scorpyd",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sharku",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "shellacay",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skultergeist",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skwerberos",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skwimera",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skwitzen",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "slisces",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "smogshroom",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "snattery",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soarnap",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soarnox",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "soleel",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "somnap",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spectreat",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spookoon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "spydull",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "sumbear",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "swiftling",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "teddream",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tetrapion",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tidju",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "tipply",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "triplydra",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "turtislet",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "twilevo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "veloswift",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "venturevo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "volcanolisk",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vyphern",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wintursa",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wolpan",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wyvegg",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "wyverdant",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "zorelle",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "zorene",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vachita",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "vacapow",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "moomega",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "hobeex",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "honikoba",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "rokilo",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "gravilon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "construkto",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "yelloon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "roughoon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "azuroon",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "kasket",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "skadire",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "khepreetle",
-		"version": 241
+		"version": 242
 	  },
 	{
 		"name": "murdoll",
-		"version": 241
+		"version": 242
 	},
 	{
 		"name": "holleader",
-		"version": 241
+		"version": 242
 	},
 	{
 		"name": "kindling",
-		"version": 241
+		"version": 242
 	},
 	{
 		"name": "elvifir",
-		"version": 241
+		"version": 242
 	},
 	{
 		"name": "twinkletree",
-		"version": 241
+		"version": 242
 	},
 	  {
 		"name": "world_wild_battle_city",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_wild_battle_tutorial",
-		"version": 241
+		"version": 242
 	  },
 	{
 		"name": "world_wild_battle_podium_bronze",
-		"version": 241
+		"version": 242
 	},
 	{
 		"name": "world_wild_battle_podium_gold",
-		"version": 241
+		"version": 242
 	},
 	{
 		"name": "world_wild_battle_podium_silver",
-		"version": 241
+		"version": 242
 	},
 	  {
 		"name": "world_capsule_store_c5",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_home",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c4",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c5",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c6",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c7",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "world_market_center_c8",
-		"version": 241
+		"version": 242
 	  },
 	{
 		"name": "world_market_center_c9",
-		"version": 241
+		"version": 242
 	},
 	  {
 		"name": "1",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "2",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "3",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "4",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "5",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "6",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "7",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "8",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "9",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "10",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "11",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "12",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "13",
-		"version": 241
+		"version": 242
 	  },
 	  {
 		"name": "15",
-		"version": 241
+		"version": 242
 	  },
   	{
   		"name": "16",
-  		"version": 241
+  		"version": 242
   	}
 	]
 }
