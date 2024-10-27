@@ -5056,121 +5056,121 @@
 		"name": "twinkletree",
 		"version": 282
 	},
-	  {
-		"name": "world_wild_battle_tutorial",
-		"version": 282
-	  },
 	{
-		"name": "world_wild_battle_podium_bronze",
-		"version": 282
+		"name": "npc_001",
+		"version": 284
 	},
 	{
-		"name": "world_wild_battle_podium_gold",
-		"version": 282
+		"name": "npc_002",
+		"version": 284
 	},
 	{
-		"name": "world_wild_battle_podium_silver",
-		"version": 282
+		"name": "npc_003",
+		"version": 284
 	},
-	  {
-		"name": "world_capsule_store_c5",
-		"version": 282
-	  },
-	  {
-		"name": "world_home",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c2",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c3",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c4",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c5",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c6",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c7",
-		"version": 282
-	  },
-	  {
-		"name": "world_market_center_c8",
-		"version": 282
-	  },
 	{
-		"name": "world_market_center_c9",
-		"version": 282
+		"name": "npc_004",
+		"version": 284
 	},
-	  {
-		"name": "1",
-		"version": 282
-	  },
-	  {
-		"name": "2",
-		"version": 282
-	  },
-	  {
-		"name": "3",
-		"version": 282
-	  },
-	  {
-		"name": "4",
-		"version": 282
-	  },
-	  {
-		"name": "5",
-		"version": 282
-	  },
-	  {
-		"name": "6",
-		"version": 282
-	  },
-	  {
-		"name": "7",
-		"version": 282
-	  },
-	  {
-		"name": "8",
-		"version": 282
-	  },
-	  {
-		"name": "9",
-		"version": 282
-	  },
-	  {
-		"name": "10",
-		"version": 282
-	  },
-	  {
-		"name": "11",
-		"version": 282
-	  },
-	  {
-		"name": "12",
-		"version": 282
-	  },
-	  {
-		"name": "13",
-		"version": 282
-	  },
-	  {
-		"name": "15",
-		"version": 282
-	  },
-  	{
-  		"name": "16",
-  		"version": 282
-  	}
+	{
+		"name": "npc_005",
+		"version": 284
+	},
+	{
+		"name": "npc_006",
+		"version": 284
+	},
+	{
+		"name": "npc_007",
+		"version": 284
+	},
+	{
+		"name": "npc_008",
+		"version": 284
+	},
+	{
+		"name": "npc_009",
+		"version": 284
+	},
+	{
+		"name": "npc_01°",
+		"version": 284
+	},
+	{
+		"name": "npc_011",
+		"version": 284
+	},
+	{
+		"name": "npc_012",
+		"version": 284
+	},
+	{
+		"name": "npc_013",
+		"version": 284
+	},
+	{
+		"name": "npc_014",
+		"version": 284
+	},
+	{
+		"name": "npc_015",
+		"version": 284
+	},
+	{
+		"name": "npc_016",
+		"version": 284
+	},
+	{
+		"name": "npc_017",
+		"version": 284
+	},
+	{
+		"name": "npc_018",
+		"version": 284
+	},
+	{
+		"name": "npc_019",
+		"version": 284
+	},
+	{
+		"name": "npc_021",
+		"version": 284
+	},
+	{
+		"name": "npc_022",
+		"version": 284
+	},
+	{
+		"name": "npc_024",
+		"version": 284
+	},
+	{
+		"name": "npc_025",
+		"version": 284
+	},
+	{
+		"name": "npc_027",
+		"version": 284
+	},
+	{
+		"name": "npc_028",
+		"version": 284
+	},
+	{
+		"name": "npc_029",
+		"version": 284
+	},
+	{
+		"name": "npc_030",
+		"version": 284
+	},
+	{
+		"name": "npc_031",
+		"version": 284
+	},
+	{
+		"name": "npc_032",
+		"version": 284
+	}
 	]
 }
