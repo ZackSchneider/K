@@ -1,7 +1,7 @@
 {
 	"ip": "https://revomon.blob.core.windows.net/lucky/games/",
 	"globalversionincrement": 301,
-	"gameversion": "01a",
+	"gameversion": "01b",
 	"showspecialsplash":false,
 	"assets": [
 	  {
